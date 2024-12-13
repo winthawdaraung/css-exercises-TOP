@@ -1,0 +1,22 @@
+.odd {
+    background-color: rgb(255, 200, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.three
+{
+    font-size: 24px;
+}
+
+#two
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#four
+{
+    background-color: rgb(200, 256, 200);
+    font-size: 24px;
+    font-weight: bold;
+}
